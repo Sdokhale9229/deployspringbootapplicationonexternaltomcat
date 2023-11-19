@@ -16,7 +16,7 @@ class BookController {
         Student student = new Student();
         student.setId(1l);
         student.setRollNumber("0126CS071");
-        student.setName("rakesh");
+        student.setName("rohit");
         return student;
     }
 
